@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.text.DecimalFormat;
 public class Rectangle {
 
-
+// comment
     private double length;
     private double width;
 
